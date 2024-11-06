@@ -1,4 +1,4 @@
-# Fashion MNIST Classification
+# Fashion MNIST Classification (93% accuracy)
 
 This notebook demonstrates building, training, and evaluating a Convolutional Neural Network (CNN) to classify images from the Fashion MNIST dataset—a collection of 28x28 grayscale images across 10 clothing categories (e.g., T-shirts, trousers, shoes).
 
